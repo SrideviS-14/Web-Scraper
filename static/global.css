@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lato: Lato;
+  --font-itim: Itim;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blue: #0f1cf3;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}
